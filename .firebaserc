@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cmr-project-f64f3": {
+      "hosting": {
+        "crm_project": [
+          "cmr-project-f64f3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "cmr-project-f64f3"
+  }
+}
